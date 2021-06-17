@@ -4,5 +4,6 @@ layout: default
 nav_order: 1
 ---
 
-# Front page
-Your content goes here!
+# Restoration Blind Husbands
+
+Documentation of the restoration of the film Blind Husbands
