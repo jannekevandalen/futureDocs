@@ -2,7 +2,6 @@
 title: Front page
 layout: default
 nav_order: 1
-has_childcode: 
 ---
 
 <details open markdown="block">
@@ -30,7 +29,14 @@ First screening October 2021
 * Restoration master: DCDM
 * Access: DCP
 
-### Project steps
+## Filmographic details
+
+* Director: Erich von Stroheim
+* Year: 1919
+* Length: 99 Minutes
+* Projection speed: 19 fps
+
+## Project steps
 
 * Research
 * Film Inspection
@@ -44,18 +50,15 @@ First screening October 2021
 * Production master/access copies
 * Music accompaniment
 
-## Filmographic details
+## Generation of elements
 
-* Director: Erich von Stroheim
-* Year: 1919
-* Length: 99 Minutes
-* Projection speed: 19 fps
+* Original 35mm negative. Original editing from 1919 (Version 1), re-edited by Universal (Version 2, mid 20s) and finally destroyed by Universal 1940s. This element is lost
 
-## Source elements
+
 
 ## Literature
 
-## Digitization specifics
+## Digitization
 
 ### 35mm nitrate print
 
